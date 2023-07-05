@@ -1,0 +1,3 @@
+/home/muhammadaugi/personal/cmake-example/B-hello-headers/build/CMakeFiles/hello_headers.dir
+/home/muhammadaugi/personal/cmake-example/B-hello-headers/build/CMakeFiles/edit_cache.dir
+/home/muhammadaugi/personal/cmake-example/B-hello-headers/build/CMakeFiles/rebuild_cache.dir
